@@ -1,0 +1,2 @@
+# NETCore-SampleAPI
+Jenkins-Sonarqube
